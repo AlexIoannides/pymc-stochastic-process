@@ -1,4 +1,4 @@
-# Calibrating Stochastic Processes using Bayesian Inference, Probabilistic Programming & PYMC3
+# Stochastic Process Calibration using Bayesian Inference and Probabilistic Programs
 
 Stochastic processes are used extensively throughout quantitative finance - for example, to simulate asset prices in risk models that aim to estimate key risk metrics such as Value-at-Risk (VaR), Expected Shortfall (ES) and Potential Future Exposure (PFE). Estimating the parameters of a stochastic processes - referred to as 'calibration' in the parlance of quantitative finance -usually involves:
 
